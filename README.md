@@ -1,5 +1,5 @@
 # BI-PYT Course
-## Programování v Pythonu 3
+## Programování v Pythonu
 ### CTU / ČVUT FIT
 
 ### Semestral work
