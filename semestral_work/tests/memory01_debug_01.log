@@ -1,0 +1,12 @@
+# program data
+[-]
+
+# memory
+b'\x03\x00'
+
+# memory pointer
+1
+
+# output
+b''
+
