@@ -28,13 +28,13 @@ python brainx
 
 Commands and examples of conversion
 ```bash
-
+#Convert the PNG file with a brainfuck code hidden inside to the raw code
 python brainx --lc2f -i input.png -p dest.b
 
-#Run the braincopter variant where the input is hidden to pixels of alreadyexisting image 
+#Run the braincopter variant - the input is hidden to pixels of an existing image 
 python brainx --f2lc -i input.b -i dest.png -o output.png
 
-#Run the braincopter variant where the input is converted directly to pixels of a new image
+#Run the braincopter variant - the input is converted directly to pixels of a new image
 python brainx --f2lc -i input.b -o output.png
 
 ```
